@@ -1,0 +1,16 @@
+#c1{
+	color: red;
+	background-color: black;
+	font-size: 40px;
+}
+
+#c2{
+	color: black;
+	background-color: yellow;
+	font-size: 50px;
+}
+
+img{
+	max-width: 800px;
+	max-height: 800px;
+}
